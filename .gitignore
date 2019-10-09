@@ -31,6 +31,7 @@
 *.out
 *.app
 
+
 .vs
 
 FormatConverter/bin
@@ -57,3 +58,4 @@ PointCloudReconstructCGAL/temp
 VTKFileFormat/bin
 VTKFileFormat/data
 VTKFileFormat/temp
+ 
