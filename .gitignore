@@ -1,0 +1,59 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.vs
+
+FormatConverter/bin
+FormatConverter/data
+FormatConverter/temp
+
+
+GDALFormat/bin
+GDALFormat/data
+GDALFormat/temp
+
+lib3ds-1.3.0/bin
+lib3ds-1.3.0/data
+lib3ds-1.3.0/temp
+
+MeshBasic/bin
+MeshBasic/data
+MeshBasic/temp
+
+PointCloudReconstructCGAL/bin
+PointCloudReconstructCGAL/data
+PointCloudReconstructCGAL/temp
+
+VTKFileFormat/bin
+VTKFileFormat/data
+VTKFileFormat/temp
